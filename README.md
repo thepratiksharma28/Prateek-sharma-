@@ -1,4 +1,5 @@
 # Prateek-sharma-
-tup = (1,2,3,4,5,6)
-<br>
-print(type(tup)
+i = 1
+while i<= 5
+print("hello", i)
+i += 1
