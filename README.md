@@ -1,5 +1,9 @@
 # Prateek-sharma-
-i = 1
-while i<= 5
-print("hello", i)
-i += 1
+<br>
+#python 
+variables and data types 
+strings and conditioner statements 
+list and tuples 
+dictionary and sets 
+loops 
+print("End")
