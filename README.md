@@ -1,3 +1,4 @@
 # Prateek-sharma-
 tup = (1,2,3,4,5,6)
+<br>
 print(type(tup)
